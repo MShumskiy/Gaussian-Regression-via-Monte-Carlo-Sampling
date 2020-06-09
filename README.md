@@ -24,5 +24,8 @@ This method consists of 7 steps:
 4. For each sample calculate its average and standard deviation;
 5. Store these values in a list of average values and in a list of stadard deviations;
 6. Now that we can apply *Central Limit Theorem*, calculate the average value of each of the previously mentioned lsits;
-7. For each case, calculate the confidence interval.
+7. For each case, calculate the confidence interval.  
+
+The code itself is well documented and explains every step, as well as the mathematical explanation.
+  
 
